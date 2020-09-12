@@ -10,12 +10,12 @@ Initial Security()
  //Sample Code
 }
 
-
+<<<<<<< HEAD
 feature1()
 {
 //code of feature1 
 }
-
+=======
 securitypatch()
 {
 //security code is here 
@@ -23,6 +23,6 @@ securitypatch()
 
 
 
-
+>>>>>>> master
 
 }
